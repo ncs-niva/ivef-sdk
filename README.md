@@ -10,4 +10,8 @@ Makes a parser for IVEF XML in a few steps.
 
 Examples for how the library can be used to generate XML or read XML are available in the example directory.
 
-Build: Use _qmake_ and then _make_. Results (schema to code executable, libraries and examples) are in build directory.
+## To build
+Use Qt's `qmake` and then `make`. Results (schema to code executable, libraries and examples) are in build directory.
+
+## Compatiable Qt version
+Tested as of January 2022 with Qt version 5.12.12. 
