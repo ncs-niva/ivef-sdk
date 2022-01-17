@@ -1,0 +1,1 @@
+java -classpath C:/Users/kriss/ivef-sdk/ivef-sdk/build/examples/isim.jar;C:/Users/kriss/ivef-sdk/ivef-sdk/build/targets/java/ivef/ivef.jar isim/core/isim -p 8043 -l 5 -s test.xml 
