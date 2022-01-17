@@ -29,4 +29,5 @@ The build will then be located at the [./ivef-sdk/ivef-sdk/build/](https://githu
 If you are using a Windows OS, please take care to use the `qmake` executable at something similar to `C:\Qt\Qt5.12.12\5.12.12\mingw73_64\bin\qmake.exe`, beware to use the version with 64 for 64-bit and 32 for 32-bit depending on the CPU. On the other hand, for the `make` executable, please use the one comes with Qt 5 with a path similar to `C:\Qt\Qt5.12.12\Tools\mingw730_64\bin\mingw32-make.exe`. Please also make sure you have Java installed and the `jar` path properly set. 
 
 ## Compatiable Qt version
-Tested as of January 2022 with Qt version 5.12.12. Additionally with `java` and `jar` 17. 
+Tested as of January 2022 with Qt version 5.12.12. Additionally with `java` and `jar` 17.
+The recommended Qt installation method on Windows is by installer and with `brew` (short for "Homebrew") if with macOS. 
