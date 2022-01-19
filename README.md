@@ -1,6 +1,8 @@
 # ivef-sdk
 _Convert ivef.xsd to C++, JAVA and PHP code to easily read or write IVEF_
 
+**Note**: Original source repository can be found at https://github.com/openivef/ivef-sdk. 
+
 Makes a parser for IVEF XML in a few steps.
 * Step 1: Make a schema to code executable. 
         Needs Qt library version 5 (or maybe even version 4, but definitely not version 6 as there are some breaking changes from the preceding version. 
